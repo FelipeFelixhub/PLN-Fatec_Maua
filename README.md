@@ -48,12 +48,6 @@ Este repositório contém notebooks utilizados durante as aulas de PLN na FATEC 
 
 ---
 
-### pln_aula08_Relevancia_Palavras.ipynb
-**Objetivo:** Avaliar a relevância das palavras em documentos e coleções de textos.  
-**Técnicas:** TF-IDF avançado, análise de frequência, visualizações com `matplotlib` e `wordcloud`.  
-**Observações:** Ideal para entender quais termos são mais importantes dentro de um contexto, auxiliando em classificações e buscas.
-
----
 
 ## Requisitos
 - Python 3.x  
