@@ -62,7 +62,7 @@ Este repositório contém notebooks utilizados durante as aulas e projetos de PL
 
 ---
 
-### `pln_aula12_Redes_Neurais`
+### `pln_aula12_13_Redes_Neurais`
 **Objetivo:** Implementar redes neurais aplicadas ao processamento de linguagem natural..  
 **Técnicas:** Redes neurais artificiais, embeddings de palavras, uso de bibliotecas como Keras e TensorFlow.  
 **Observações:** Introduz conceitos de deep learning no contexto de PLN.
